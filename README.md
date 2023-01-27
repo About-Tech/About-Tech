@@ -16,7 +16,7 @@
 ![](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white)
 ![](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white)
 ![](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
-![](https://img.shields.io/badge/ReactNative-61DAFB.svg?style=for-the-badge&logo=ReactNative&logoColor=black)
+![](https://img.shields.io/badge/ReactNative-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 <br/>
 
 ### Database
